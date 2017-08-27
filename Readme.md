@@ -15,5 +15,5 @@ purpose in this section is displaying an information box which called message bo
 then, introducing the Spinbox function. and after that I rather preferred to design a ToolTip function by myself.
 
 ## fourth_things_technically
-how to deal with tkinter in Object Oriented Programming manner or (OOP) to observe the "DRY" principle.(AKA Don't Repeat Yourself)<br>
+how to deal with tkinter in Object Oriented Programming manner or (OOP) to observe the "DRY" principle.<br> **(AKA Don't Repeat Yourself)**<br>
 I create a "OOP.py" that has been modified in the way of changing self attributes and refactoring some other stuff that related to the Objects. then add "OOP_tool_tip.py" that implements the ToolTip function in OOP style and finally use it in the main "OOP.py" module.
