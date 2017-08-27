@@ -11,4 +11,9 @@ main discuss here is layout management. how to dynamically manage the GUI elemen
 4. "tabbed_widget.py" is for showing that we can introduce our stuff in multiple tabs!
 
 ## third_things_come_next
-purpose in this section is displaying an information box which called message box.
+purpose in this section is displaying an information box which called message box.<br>
+then, introducing the Spinbox function. and after that I rather preferred to design a ToolTip function by myself.
+
+## fourth_things_technically
+how to deal with tkinter in Object Oriented Programming manner or (OOP) to observe the "DRY" principle.(AKA Don't Repeat Yourself)<br>
+I create a "OOP.py" that has been modified in the way of changing self attributes and refactoring some other stuff that related to the Objects. then add "OOP_tool_tip.py" that implements the ToolTip function in OOP style and finally use it in the main "OOP.py" module.
