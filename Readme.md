@@ -17,3 +17,6 @@ then, introducing the Spinbox function. and after that I rather preferred to des
 ## fourth_things_technically
 how to deal with tkinter in Object Oriented Programming manner or (OOP) to observe the "DRY" principle.<br> **(AKA Don't Repeat Yourself)**<br>
 I create a "OOP.py" that has been modified in the way of changing self attributes and refactoring some other stuff that related to the Objects. then add "OOP_tool_tip.py" that implements the ToolTip function in OOP style and finally use it in the main "OOP.py" module.
+
+## fifth_things_get_serious
+in this section first I create thread for our GUI to separate main process of our application from the GUI stuff to achieve better performance and dynamics.
